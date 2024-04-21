@@ -34,6 +34,11 @@ nav a.split {
   padding-right: 25px;
   color: white;
   font-size: 24px;
+  display: flex;
+  align-items: center;
+  padding-top: 3px;
+  /* padding-bottom: 500px; */
+  
 }
 
 .hero-section {
