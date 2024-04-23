@@ -86,14 +86,14 @@ nav a.split {
   font-size: 60px;
   padding-top: 15px;
   padding-bottom: 15px;
-  -webkit-background-clip: text;
+  -webkit-background-clip:text;
   color: transparent;
 }
 
 .hero-text p {
   color: hsla(240, 77%, 8%, 1);
   font-weight: 400;
-  font-family: "inter";
+  font-family: 'inter';
   font-size: 16px;
   line-height: 25px;
 }
