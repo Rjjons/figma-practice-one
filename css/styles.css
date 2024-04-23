@@ -70,7 +70,8 @@ nav a.split {
 }
 
 .hero-text h1 {
-  background-image: linear-gradient( 90.08deg,
+  background-image: linear-gradient(
+    90.08deg,
     #333366 0.07%,
     #101412 15.19%,
     #283673 32.82%,
@@ -110,7 +111,6 @@ nav a.split {
   font-size: 20px;
   font-weight: 600px;
   font-family: "inter";
-
   color: #050524;
   text-align: center;
   border: 1px #283673 solid;
